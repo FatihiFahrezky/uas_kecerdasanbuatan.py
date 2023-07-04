@@ -91,7 +91,7 @@ class Speed(BaseFuzzy):
 # Contoh Menjalankan Program
 speed = Speed()
 temperature = 'FREEZE'
-pressure_value = 'VERY LOW'
+pressure_value = 'MEDIUM'
 
 if temperature == 'FREEZE':
     if pressure_value == 'VERY LOW':
